@@ -8,6 +8,5 @@ title: 나의 Quartz 정복기
 
 3단계: [[자동 배포 설정]] #Important
 
-
-파일보관소:  C:\Users\xipas\Obsidian vault\quartz\content
-git page:  https://909uma.github.io/quartz/
+파일보관소: C:\Users\xipas\Obsidian vault\quartz\content
+git page: https://909uma.github.io/quartz/

@@ -1,12 +1,12 @@
 ---
-title: 나의 Quartz 정복기
+title: Welcome to Quartz
 ---
 
-1단계: [[환경 준비 및 초기화]] #Learning
+#obsidian을 github quartz로 웹퍼블리싱#
 
-2단계: [[GitHub 저장소 연결]] #TroubleShooting
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
-3단계: [[자동 배포 설정]] #Important
+C:\Users\xipas\Obsidian vault\quartz\content
 
-파일보관소: C:\Users\xipas\Obsidian vault\quartz\content
-git page: https://909uma.github.io/quartz/
+mklink /D "C:\Desktop\quartz\content" "C:\Users\xipas\Documents\ObsidianVault" #예시
